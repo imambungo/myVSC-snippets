@@ -35,6 +35,13 @@
 		],
 		"description": "Deklarasi class sederhana"
 	},
+	"SOUT": {
+		"prefix": "sout",
+		"body": [
+			"System.out.println($1);$0"
+		],
+		"description": "System out println"
+	},
 	"Convert int to String": {
 		"prefix": "inttostring",
 		"body": [
